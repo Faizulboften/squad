@@ -93,30 +93,30 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"$pu"  AUTHOR    :  Faizul  "$i"                  "
-echo $i"$pu"  WhatsApp  :  082271426251"$i"              "
-echo $i"$pu"  GMAIL     :  gelengbucin@gmail.com"$i"   "
-echo $i"$pu"  YOUTUBE   :  YouTube Ctr Htc Gaming"$i"               "
-echo $i"$pu"  INSTAGRAM :  @No IG"$i"               "
-echo $i"$pu"  FACEBOOK  :  Faizul"$i"         "
+echo $i"📂"$pu"  AUTHOR    :  Faizul  "$i"                  "
+echo $i"📂"$pu"  WhatsApp  :  082271426251"$i"              "
+echo $i"📂"$pu"  GMAIL     :  gelengbucin@gmail.com"$i"   "
+echo $i"📂"$pu"  YOUTUBE   :  YouTube Ctr Htc Gaming"$i"               "
+echo $i"📂"$pu"  INSTAGRAM :  @No IG"$i"               "
+echo $i"📂"$pu"  FACEBOOK  :  Faizul"$i"         "
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu TOOLS TERMUX XDI:"
 echo $ku"["$me"1"$ku"]"$i" REPORT FB ✔"
-echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE ✔"
+echo $ku"["$me"2"$ku"]"$i" HACK TARGET ✔"
 echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER ✔"
-echo $ku"["$me"4"$ku"]"$i" MBF"
+echo $ku"["$me"4"$ku"]"$i" CLON AKUN OLD ✔"
 echo $ku"["$me"5"$ku"]"$i" CLONING YAHOO ✔"
 echo $ku"["$me"6"$ku"]"$i" OSIF ✔"
 echo $ku"["$me"7"$ku"]"$i" PROFILEGUARD FB ✔"
 echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK ✔"
 echo $ku"["$me"9"$ku"]"$i" SPAM CALL ✔"
 echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP ✔"
-echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL ✔"
+echo $ku"["$me"11"$ku"]"$i" TOOLS HACK GAME ✔"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU ✔"
-echo $ku"["$me"14"$ku"]"$i" Clon Old Accound✔"
-echo $ku"["$me"15"$ku"]"$i" Clon Akun Pakistan✔"
+echo $ku"["$me"14"$ku"]"$i" Clon Old Accound [ COID ]❌"
+echo $ku"["$me"15"$ku"]"$i" UDAH COID❌"
 echo $i"["$me"16"$i"]"$ku" EXIT 🔴"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda jancok"$pur"]"
@@ -138,7 +138,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Senitopeng/fbbrute.git
+git clone https://github.com/faizanwahla/fbrute.git
 cd fbbrute
 python2 jomblo.py
 fi
@@ -156,11 +156,11 @@ fi
 if [ $pil = 4 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "MENGINSTALL"|lolcat
 sleep 1
-git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
-cd multi-bruteforce-facebook
-python2 MBF.py
+gi clone https://github.com/RIZKY4/pro
+cd pro
+python2 pro.py
 fi
 
 if [ $pil = 5 ]
@@ -231,9 +231,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/rahmadxyz/sub-bot.git
-cd sub-bot
-php sub-bot.php
+git clone https://github.com/novalattasya/Tool-N
+cd Tool-N
+python2 Tool-N
 fi
 
 if [ $pil = 12 ]
