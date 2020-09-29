@@ -93,12 +93,12 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  Faizul  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  082271426251"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  gelengbucin@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube Ctr Htc Gaming"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @No IG"$i"               Ôûê"
-echo $i"Ôûê"$pu"  FACEBOOK :  Faizul"$i"          Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  Faizul  "$i"                  "
+echo $i"Ôûê"$pu"  WhatsApp  :  082271426251"$i"              "
+echo $i"Ôûê"$pu"  GMAIL     :  gelengbucin@gmail.com"$i"   "
+echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube Ctr Htc Gaming"$i"               "
+echo $i"Ôûê"$pu"  INSTAGRAM :  @No IG"$i"               "
+echo $i"Ôûê"$pu"  FACEBOOK :  Faizul"$i"         "
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu TOOLS TERMUX XDI:"
@@ -115,7 +115,9 @@ echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP ✔"
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL ✔"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU ✔"
-echo $i"["$me"14"$i"]"$ku" EXIT 🔴"
+echo $ku"["$me"14"$ku"]"$i" Clon Old Accound✔"
+echo $ku"["$me"15"$ku"]"$i" Clon Akun Pakistan✔"
+echo $i"["$me"16"$i"]"$ku" EXIT 🔴"
 echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda jancok"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
@@ -254,8 +256,27 @@ cd brutal-sms
 python2 run.py
 fi
 
-
 if [ $pil = 14 ]
+then
+clear
+figlet -f slant "MENGINSTALL"|lolcat
+sleep 1
+https://github.com/Binyamin-binni/b-all
+cd b-all
+python2 b-all.py
+fi
+
+if [ $pil = 15 ]
+then
+clear
+figlet -f slant "INSTALL COK"|lolcat
+sleep 1
+https://github.com/faizanwahla/pacman
+cd pacman
+python2 pacman.py
+fi
+
+if [ $pil = 16 ]
 then
 clear
 figlet -f slant "W A I T"|Ulolcat
