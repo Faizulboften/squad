@@ -93,12 +93,12 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  Faizul  "$i"                  "
-echo $i"Ôûê"$pu"  WhatsApp  :  082271426251"$i"              "
-echo $i"Ôûê"$pu"  GMAIL     :  gelengbucin@gmail.com"$i"   "
-echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube Ctr Htc Gaming"$i"               "
-echo $i"Ôûê"$pu"  INSTAGRAM :  @No IG"$i"               "
-echo $i"Ôûê"$pu"  FACEBOOK :  Faizul"$i"         "
+echo $i"$pu"  AUTHOR    :  Faizul  "$i"                  "
+echo $i"$pu"  WhatsApp  :  082271426251"$i"              "
+echo $i"$pu"  GMAIL     :  gelengbucin@gmail.com"$i"   "
+echo $i"$pu"  YOUTUBE   :  YouTube Ctr Htc Gaming"$i"               "
+echo $i"$pu"  INSTAGRAM :  @No IG"$i"               "
+echo $i"$pu"  FACEBOOK  :  Faizul"$i"         "
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu TOOLS TERMUX XDI:"
@@ -264,7 +264,7 @@ sleep 1
 https://github.com/Binyamin-binni/b-all
 cd b-all
 python2 b-all.py
-fi
+
 
 if [ $pil = 15 ]
 then
@@ -274,7 +274,7 @@ sleep 1
 https://github.com/faizanwahla/pacman
 cd pacman
 python2 pacman.py
-fi
+
 
 if [ $pil = 16 ]
 then
